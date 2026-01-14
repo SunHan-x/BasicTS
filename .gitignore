@@ -190,3 +190,6 @@ cython_debug/
 # keep datasets in test
 !tests/smoke_test/datasets/
 !tests/smoke_test/datasets/**/*.npy
+
+# ignore zip files
+*.zip
